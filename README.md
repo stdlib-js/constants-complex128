@@ -39,7 +39,7 @@ npm install @stdlib/constants-complex128
 ## Usage
 
 ```javascript
-var constants = require( '@stdlib/constants-complex128-' );
+var constants = require( '@stdlib/constants-complex128' );
 ```
 
 #### constants
@@ -75,7 +75,7 @@ var c = constants;
 
 ```javascript
 var objectKeys = require( '@stdlib/utils-keys' );
-var constants = require( '@stdlib/constants-complex128-' );
+var constants = require( '@stdlib/constants-complex128' );
 
 console.log( objectKeys( constants ) );
 ```
