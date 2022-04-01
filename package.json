@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/constants-complex128",
+  "version": "0.0.0",
+  "description": "128-bit complex number mathematical constants.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-complex128.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "standard",
+    "library",
+    "lib",
+    "constants",
+    "const",
+    "namespace",
+    "double",
+    "double-precision",
+    "complex",
+    "cmplx",
+    "complex128"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
