@@ -35,6 +35,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/constants-complex128-nan": "github:stdlib-js/constants-complex128-nan#main",
     "@stdlib/constants-complex128-num-bytes": "^0.1.1",
     "@stdlib/constants-complex128-zero": "github:stdlib-js/constants-complex128-zero#main",
     "@stdlib/utils-define-read-only-property": "^0.1.1"
@@ -45,6 +46,7 @@
     "@stdlib/complex-float64": "^0.1.1",
     "@stdlib/complex-imag": "^0.1.1",
     "@stdlib/complex-real": "^0.1.1",
+    "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/utils-keys": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
