@@ -2,39 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
-
-## Unreleased (2024-12-01)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -51,6 +21,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -70,94 +52,19 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="constants-complex128-v0.2.0">
-
-#### [@stdlib/constants/complex128](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287)
 -   [`b4e9738`](https://github.com/stdlib-js/stdlib/commit/b4e9738801ab120901cc7887ab60dcd70f907003) - add `NAN` to namespace
--   [`da9a837`](https://github.com/stdlib-js/stdlib/commit/da9a83733c9093ca37104a1aee52080db0633d42) - add `ZERO` to namespace
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-complex128-nan-v0.2.0">
-
-#### [@stdlib/constants/complex128/nan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/nan)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`ae6b648`](https://github.com/stdlib-js/stdlib/commit/ae6b6484d76ee2a2b319782b3630931cd5b481f9) - add `constants/complex128/nan`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-complex128-zero-v0.2.0">
-
-#### [@stdlib/constants/complex128/zero](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/zero)
-
-<details>
-
-<section class="features">
-
-##### Features
-
+-   [`da9a837`](https://github.com/stdlib-js/stdlib/commit/da9a83733c9093ca37104a1aee52080db0633d42) - add `ZERO` to namespace
 -   [`363c9ab`](https://github.com/stdlib-js/stdlib/commit/363c9ab8e51b79d66a7fe0f7fb8f2b73514ef499) - add `constants/complex128/zero`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -183,6 +90,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -201,81 +121,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-09-23)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="constants-complex128-v0.1.0">
-
-#### [@stdlib/constants/complex128](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="constants-complex128-num-bytes-v0.1.0">
-
-#### [@stdlib/constants/complex128/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/num-bytes)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -288,18 +142,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -315,6 +157,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
