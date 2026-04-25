@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> 128-bit complex number mathematical constants
+> 128-bit complex number mathematical constants.
 
 <section class="installation">
 
@@ -65,7 +65,7 @@ var constants = require( '@stdlib/constants-complex128' );
 
 #### constants
 
-128-bit complex number mathematical constants
+128-bit complex number mathematical constants.
 
 ```javascript
 var c = constants;
